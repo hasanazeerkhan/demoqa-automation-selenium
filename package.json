@@ -1,0 +1,22 @@
+{
+  "name": "demoqa-automation-selenium",
+  "version": "1.0.0",
+  "description": "This repository automates testing for the Alerts feature on demoqa.com using Selenium. It covers simple, confirmation, and prompt alerts to ensure proper functionality. The suite enhances testing efficiency and accuracy, making it ideal for CI/CD integration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasanazeerkhan/demoqa-automation-selenium.git"
+  },
+  "author": "Mohammed Hasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasanazeerkhan/demoqa-automation-selenium/issues"
+  },
+  "homepage": "https://github.com/hasanazeerkhan/demoqa-automation-selenium#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.25.0"
+  }
+}
